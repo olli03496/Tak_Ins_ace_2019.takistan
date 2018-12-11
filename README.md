@@ -3,7 +3,7 @@
 Insurgency style mission complete with all the tools you need for a full MILSIM experience.
 This is a unique experience, the 1st edition of the mission and is a rolling release. This mission is designed for a multiplayer environment on a dedicated server, however you can also enjoy it in single player. I hope you enjoy it as much as I do.
 
-Steam Link https://steamcommunity.com/sharedfiles/filedetails/?id=1567472309
+Steam Link https://steamcommunity.com/sharedfiles/filedetails/?id=1588092511
 
 Mission includes support system for Artillary, CAS, Ammo drops and Heli extraction/transport;
 
@@ -15,7 +15,7 @@ Side tasks are included as well as various active A/O zones to capture.
 
 Mission is a rolling release updated regularly for multiplayer performance. 
 
-To play this mission CBA_A3; CUP Terrains-Core, Maps, Weapons, Units, Vehicles, TFAR and RHSUSAF addons are required. The mission is compatible with all addons.
+To play this mission ace, ace compat rhsusf3, CBA_A3; CUP Terrains-Core, Maps, Weapons, Units, Vehicles, TFAR and RHSUSAF addons are required. The mission is compatible with all addons.
 
 To begin using the Software;
 
