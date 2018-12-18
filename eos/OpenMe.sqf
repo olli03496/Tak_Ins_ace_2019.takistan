@@ -57,3 +57,8 @@ null = [["mrk_49"],[3,1],[2,3,75],[3,1,90],[2,60],[0],[0,0],[0,0,550,EAST,TRUE,F
 null = [["mrk_50"],[3,1],[2,3,75],[3,1,90],[2,60],[0],[0,0],[0,0,550,EAST,TRUE,FALSE]] call EOS_Spawn;
 null = [["mrk_41"],[3,1],[2,3,75],[3,1,90],[2,60],[0],[0,0],[0,0,550,EAST,TRUE,FALSE]] call EOS_Spawn;
 null = [["mrk_52"],[3,1],[2,3,75],[3,1,90],[2,60],[0],[0,0],[0,0,550,EAST,TRUE,FALSE]] call EOS_Spawn;
+//bas_zone
+null = [["BAS_zone_1"],[3,1],[2,3],[0],[0,0],[0,1,EAST,false,false],[5,2,220,TRUE,FALSE]] call Bastion_Spawn;
+null = [["BAS_zone_2"],[3,1],[2,3],[0],[0,0],[0,1,EAST,false,false],[5,2,220,TRUE,FALSE]] call Bastion_Spawn;
+null = [["BAS_zone_3"],[3,1],[2,3],[0],[0,0],[0,1,EAST,false,false],[5,2,220,TRUE,FALSE]] call Bastion_Spawn;
+null = [["BAS_zone_4"],[3,1],[2,3],[0],[0,0],[0,1,EAST,false,false],[5,2,220,TRUE,FALSE]] call Bastion_Spawn;

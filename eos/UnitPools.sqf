@@ -6,16 +6,16 @@ _tempArray=[];
 // EAST CSAT FACTION
 	if (_faction==0) then {
 	_InfPool=	["CUP_O_TK_SpecOps_TL","CUP_O_TK_SpecOps","CUP_O_TK_SpecOps_MG","CUP_O_TK_INS_Commander","CUP_O_TK_INS_Soldier_TL","CUP_O_TK_INS_Sniper","CUP_O_TK_INS_Soldier_AT","CUP_O_TK_INS_Soldier_AAT","CUP_O_TK_INS_Soldier_Enfield","CUP_O_TK_INS_Soldier_FNFAL","CUP_O_TK_INS_Soldier","CUP_O_TK_INS_Soldier_GL","CUP_O_TK_INS_Mechanic","CUP_O_TK_INS_Bomber","CUP_O_TK_INS_Soldier_MG","CUP_O_TK_INS_Guerilla_Medic","CUP_O_TK_INS_Soldier_AR","CUP_O_TK_INS_Soldier_AA"];	
-	_ArmPool=	["O_MBT_02_cannon_F", "O_MBT_04_cannon_F","O_MBT_04_command_F"];
-	_MotPool=	["O_Truck_03_covered_F","O_G_Van_02_transport_F","O_G_Van_02_vehicle_F","O_G_Van_01_transport_F","O_G_Offroad_01_repair_F","O_G_Offroad_01_armed_F","O_G_Offroad_01_F"];
-	_ACHPool=	["O_Heli_Light_02_dynamicLoadout_F"];
-	_CHPool=	["O_Heli_Light_02_unarmed_F"];
+	_ArmPool=	["CUP_O_BTR40_MG_TKM","CUP_O_Ural_ZU23_TKM"];
+	_MotPool=	["CUP_O_LR_MG_TKM","CUP_O_LR_SPG9_TKM","CUP_O_LR_Transport_TKM","CUP_O_V3S_Open_TKM","CUP_O_SUV_TKA","CUP_O_LR_MG_TKA","O_G_Offroad_01_armed_F"];
+	_ACHPool=	[];
+	_CHPool=	[];
 	_uavPool=	[];
-	_stPool=	["CUP_O_ZU23_TK_INS","CUP_O_TK_INS_Soldier","CUP_O_2b14_82mm_TK_INS","CUP_O_DSHkM_MiniTriPod_TK_INS","CUP_O_DSHKM_TK_INS","CUP_O_D30_AT_TK_INS","CUP_O_D30_TK_INS","CUP_O_AGS_TK_INS"];
+	_stPool=	["CUP_O_ZU23_TK_INS","CUP_O_D30_AT_TK_INS","CUP_O_DSHkM_MiniTriPod_TK_INS"];
 	_shipPool=	[];
 	_diverPool=	[];
-	_crewPool=	["O_crew_F"];
-	_heliCrew=	["O_Pilot_F","O_crew_F"];
+	_crewPool=	["CUP_O_TK_INS_Soldier","CUP_O_TK_INS_Soldier_AA"];
+	_heliCrew=	[];
 };
 // WEST NATO FACTION	
 	if (_faction==1) then {
